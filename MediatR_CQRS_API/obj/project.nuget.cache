@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MuwWQyYzUzvzWOn3zFCW3/SsEQsHfj2WEmm3XdMGcWgkig4AunI9vXB4eEumvVzMIwsginfn0P4t0pp07pT+og==",
+  "dgSpecHash": "hDK6NwmRATX0MZp3spgKuRNNnzDWWYV0hUN5IxGwilogmlf2LNJou6hBamEzfpObO1qoHYvSlYhnhZeg1AcTbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\MediatR_CQRS_API.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\MediatR_CQRS_API\\MediatR_CQRS_API\\MediatR_CQRS_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
