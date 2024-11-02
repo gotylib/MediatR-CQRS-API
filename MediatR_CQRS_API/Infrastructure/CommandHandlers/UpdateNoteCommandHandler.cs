@@ -10,7 +10,7 @@ namespace WebApplication1.Infrastructure.ComandHandlers;
 public class UpdateNoteCommandHandler
     : IRequestHandler<UpdateNoteCommand>
 {
-    public readonly ApplicationDbContext _dbContext;
+    private readonly ApplicationDbContext _dbContext;
 
     public UpdateNoteCommandHandler(ApplicationDbContext dbContext) => _dbContext = dbContext;
     
