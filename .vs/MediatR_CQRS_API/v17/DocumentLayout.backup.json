@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0DAEF-981D-4DA0-9399-B3F373614FBD}|MediatR_CQRS_API\\MediatR_CQRS_API.csproj|c:\\users\\admin\\riderprojects\\webapplication1\\mediatr_cqrs_api\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0DAEF-981D-4DA0-9399-B3F373614FBD}|MediatR_CQRS_API\\MediatR_CQRS_API.csproj|solutionrelative:mediatr_cqrs_api\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0DAEF-981D-4DA0-9399-B3F373614FBD}|MediatR_CQRS_API\\MediatR_CQRS_API.csproj|c:\\users\\admin\\riderprojects\\webapplication1\\mediatr_cqrs_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0DAEF-981D-4DA0-9399-B3F373614FBD}|MediatR_CQRS_API\\MediatR_CQRS_API.csproj|solutionrelative:mediatr_cqrs_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0DAEF-981D-4DA0-9399-B3F373614FBD}|MediatR_CQRS_API\\MediatR_CQRS_API.csproj|c:\\users\\admin\\riderprojects\\webapplication1\\mediatr_cqrs_api\\infrastructure\\queriehandlers\\getnotedetailshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0DAEF-981D-4DA0-9399-B3F373614FBD}|MediatR_CQRS_API\\MediatR_CQRS_API.csproj|solutionrelative:mediatr_cqrs_api\\infrastructure\\queriehandlers\\getnotedetailshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0DAEF-981D-4DA0-9399-B3F373614FBD}|MediatR_CQRS_API\\MediatR_CQRS_API.csproj|c:\\users\\admin\\riderprojects\\webapplication1\\mediatr_cqrs_api\\infrastructure\\commandhandlers\\createcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0DAEF-981D-4DA0-9399-B3F373614FBD}|MediatR_CQRS_API\\MediatR_CQRS_API.csproj|solutionrelative:mediatr_cqrs_api\\infrastructure\\commandhandlers\\createcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D0DAEF-981D-4DA0-9399-B3F373614FBD}|MediatR_CQRS_API\\MediatR_CQRS_API.csproj|c:\\users\\admin\\riderprojects\\webapplication1\\mediatr_cqrs_api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D0DAEF-981D-4DA0-9399-B3F373614FBD}|MediatR_CQRS_API\\MediatR_CQRS_API.csproj|solutionrelative:mediatr_cqrs_api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetNoteDetailsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\Infrastructure\\QuerieHandlers\\GetNoteDetailsHandler.cs",
+              "RelativeDocumentMoniker": "MediatR_CQRS_API\\Infrastructure\\QuerieHandlers\\GetNoteDetailsHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\Infrastructure\\QuerieHandlers\\GetNoteDetailsHandler.cs",
+              "RelativeToolTip": "MediatR_CQRS_API\\Infrastructure\\QuerieHandlers\\GetNoteDetailsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:59:46.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\Infrastructure\\CommandHandlers\\CreateCommandHandler.cs",
+              "RelativeDocumentMoniker": "MediatR_CQRS_API\\Infrastructure\\CommandHandlers\\CreateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\Infrastructure\\CommandHandlers\\CreateCommandHandler.cs",
+              "RelativeToolTip": "MediatR_CQRS_API\\Infrastructure\\CommandHandlers\\CreateCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:59:42.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\Program.cs",
+              "RelativeDocumentMoniker": "MediatR_CQRS_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\Program.cs",
+              "RelativeToolTip": "MediatR_CQRS_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:50:23.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "MediatR_CQRS_API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "MediatR_CQRS_API\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:46:01.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "MediatR_CQRS_API\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\Admin\\RiderProjects\\WebApplication1\\MediatR_CQRS_API\\Controllers\\NoteController.cs*",
+              "RelativeToolTip": "MediatR_CQRS_API\\Controllers\\NoteController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:44:54.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
